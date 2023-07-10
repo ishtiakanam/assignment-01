@@ -65,3 +65,16 @@
     align-items: center;
     text-align: center;
 }
+
+.social-media-img {
+    display: flex;
+    gap: 20px;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.social-photo {
+    width: 200px;
+    height: 200px;
+}
