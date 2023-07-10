@@ -1,0 +1,67 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+/* flower head container */
+.flower-head-container {
+    height: 70vh;
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+}
+
+.head-info {
+    margin-left: 200px;
+}
+
+.head-description {
+    margin-top: 10px;
+}
+
+.head-img {
+    height: 350px;
+    width: 350px;
+    margin-right: 100px;
+}
+
+.primary-btn {
+    font-size: 10px;
+    padding: 10px;
+    color: white;
+    background: #E55473;
+    border-radius: 8px;
+    border: none;
+    margin-top: 10px;
+}
+
+/* Deal section */
+.deal-container {
+    height: 50vh;
+    display: flex;
+    gap: 20px;
+    background: rgba(229, 84, 115, 0.05);
+    align-items: center;
+    text-align: center;
+
+}
+
+.deal-info {
+    margin-left: 150px;
+}
+
+.deal-span {
+    color: #E55473;
+}
+
+.deal-img {
+    height: 350px;
+    width: 250px;
+    margin-right: 100px;
+}
+
+/* social-media-container */
+.social-media-info {
+    align-items: center;
+    text-align: center;
+}
