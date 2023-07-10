@@ -7,6 +7,7 @@
 .flower-head-container {
     height: 70vh;
     display: flex;
+    display: cover;
     background: rgba(229, 84, 115, 0.10);
     align-items: center;
 }
@@ -77,4 +78,41 @@
 .social-photo {
     width: 200px;
     height: 200px;
+}
+
+/* Latest container */
+.latest-container {
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    height: 300px;
+    background-image: url('./Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    text-align: center;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.letest-bio {
+    margin-top: 100px;
+    border: 5px solid red;
+}
+
+.email-input {
+    padding: 8px;
+    width: 40%;
+    border-radius: 5px;
+    margin-top: 130px;
+}
+
+/* footer */
+footer {
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 50px;
+    /* height: 200px; */
+    margin-top: 50px;
 }
