@@ -11,6 +11,7 @@
     /* background: rgba(229, 84, 115, 0.10); */
     background-color: #0597A026;
     align-items: center;
+    justify-content: center;
 }
 
 .head-info {
@@ -46,11 +47,13 @@
     background-color: #0597A026;
     align-items: center;
     text-align: center;
+    justify-content: center;
     margin-top: 50px;
 }
 
 .deal-info {
     margin-left: 150px;
+    align-items: center;
 }
 
 .deal-span {
@@ -78,6 +81,8 @@
 .feature-photo {
     display: flex;
     gap: 5px;
+    align-items: center;
+    justify-content: center;
 }
 
 .feature-img {
@@ -143,6 +148,8 @@
 
 .social-media-img {
     display: flex;
+    justify-content: center;
+
     gap: 20px;
     width: 80%;
     margin: auto;
