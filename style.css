@@ -8,7 +8,8 @@
     height: 70vh;
     display: flex;
     display: cover;
-    background: rgba(229, 84, 115, 0.10);
+    /* background: rgba(229, 84, 115, 0.10); */
+    background-color: #0597A026;
     align-items: center;
 }
 
@@ -41,7 +42,8 @@
     height: 50vh;
     display: flex;
     gap: 20px;
-    background: rgba(229, 84, 115, 0.05);
+    /* background: rgba(229, 84, 115, 0.05); */
+    background-color: #0597A026;
     align-items: center;
     text-align: center;
     margin-top: 50px;
@@ -115,6 +117,8 @@
 /* event container */
 .event-container {
     height: 300px;
+    width: 80%;
+    margin: auto;
     display: flex;
     gap: 30px;
     align-items: center;
