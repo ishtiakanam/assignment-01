@@ -90,27 +90,25 @@
 
 .feature-img {
     background-color: #0597A026;
-    height: 250px;
-    width: 220px;
-    /* margin-left: 50px; */
+
+    width: 100%;
+    aspect-ratio: 1;
     border-top-left-radius: 90px;
     border-top-right-radius: 90px;
 }
 
 .feature-img2 {
     background-color: #A7216226;
-    height: 250px;
-    width: 200px;
-    margin-left: 50px;
+    aspect-ratio: 1;
+    width: 100%;
     border-top-left-radius: 90px;
     border-top-right-radius: 90px;
 }
 
 .feature-img3 {
     background-color: #477D1126;
-    height: 250px;
-    width: 200px;
-    margin-left: 50px;
+    aspect-ratio: 1;
+    width: 100%;
     border-top-left-radius: 90px;
     border-top-right-radius: 90px;
 }
